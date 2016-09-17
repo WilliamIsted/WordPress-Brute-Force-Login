@@ -8,4 +8,4 @@ PHP script for test the password strongness of a WordPress account.
 # ./wpbf.php -t https://www.nsa.gov -u admin -p password.txt -P my.proxy.ch:3218
 ```
 
-![How it works](https://asciinema.org/a/6eapg73nbgygrze3z41hm7b7z.png)
+[![How it works](https://asciinema.org/a/6eapg73nbgygrze3z41hm7b7z.png)](https://asciinema.org/a/6eapg73nbgygrze3z41hm7b7z)
